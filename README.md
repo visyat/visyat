@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Vishal! 
 I'm a first-year [Computer Science and Engineering]([url](https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS)https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS) Major at UCLA! 
 
+<!-- To be Updated
+
 ## Classes Taken ...
 | Quarter | Classes | 
 | ------- | ------- |
@@ -10,3 +12,5 @@ I'm a first-year [Computer Science and Engineering]([url](https://catalog.regist
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visyat&layout=compact&count_private=true&theme=vue&hide=jupyter%20notebook" alt="Most used languages!" height=150 />
 </p>
+
+--> 
