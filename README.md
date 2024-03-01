@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Vishal! 
 I'm a [Computer Science and Engineering]([url](https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS)https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS) student at the Henry Samueli School of Engineering & Applied Science at UCLA!
 
-<!-- To be Updated
-
 ## Classes Taken
 | Quarter | Classes | 
 | ------- | ------- |
 | Fall 2023 | • CS 32 (Data Structures & Algorithms) (A+) <br> • GEOG 7 (Intro to Geographic Information Systems) (A) <br> • STATS 10 (Intro to Statistical Reasoning) (A+) <br> • LING 1 (Intro to Study of Language) (A+) | 
+| Winter 2023 | • CS 35L (Software Construction) <br> • CS 143 (Data Management Systems) <br> • PHYSICS 4AL (Mechanics Lab) <br> • CS M192A, CS 192, LS M19E (Collaborative Learning Theory and Practice) |
+
+
+
+<!-- To be Updated
 
 ### GitHub Stats
 <p align="left">
