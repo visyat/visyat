@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Vishal! 
-I'm a [Computer Science and Engineering]([url](https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS)https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS) student at the Henry Samueli School of Engineering & Applied Science at UCLA!
+I'm a [Computer Science and Engineering](https://catalog.registrar.ucla.edu/major/2023/ComputerScienceandEngineeringBS) student at the Henry Samueli School of Engineering & Applied Science at UCLA!
 
 ## Classes Taken
 | Quarter | Classes | 
 | ------- | ------- |
-| Fall 2023 | • COM SCI 32 (Data Structures & Algorithms) <br> • GEOG 7 (Intro to Geographic Information Systems) <br> • STATS 10 (Intro to Statistical Reasoning) <br> • LING 1 (Intro to Study of Language) | 
-| Winter 2024 | • COM SCI 35L (Software Construction) <br> • COM SCI 143 (Data Management Systems) <br> • PHYSICS 4AL (Mechanics Lab) <br> • Learning Assistant (LA) for COM SCI 31: Intro to Computer Science |
-| Spring 2024 | • COM SCI 33 (Computer Organization & Assembly) <br> • COM SCI 144 (Web Applications) <br> • EC ENGR 209AS (Trustworthy AI) <br> • Head Learning Assistant for COM SCI 31 |
+| Fall 2023 | • [COM SCI 32](https://catalog.registrar.ucla.edu/course/2023/COMSCI32): Data Structures & Algorithms <br> • [GEOG 7](https://catalog.registrar.ucla.edu/course/2023/GEOG7): Intro to Geographic Information Systems <br> • [STATS 10](https://catalog.registrar.ucla.edu/course/2023/STATS10): Intro to Statistical Reasoning <br> • [LING 1](https://catalog.registrar.ucla.edu/course/2023/LING1): Intro to Study of Language | 
+| Winter 2024 | • [COM SCI 35L](https://catalog.registrar.ucla.edu/course/2023/COMSCI35L): Software Construction <br> • [COM SCI 143](https://catalog.registrar.ucla.edu/course/2023/COMSCI143): Data Management Systems <br> • [PHYSICS 4AL](https://catalog.registrar.ucla.edu/course/2023/PHYSICS4AL): Mechanics Lab for Scientists and Engineers <br> • Learning Assistant (LA) for [COM SCI 31](https://catalog.registrar.ucla.edu/course/2023/COMSCi31): Intro to Computer Science |
+| Spring 2024 | • [COM SCI 33](https://catalog.registrar.ucla.edu/course/2023/COMSCI33): Computer Organization & Assembly <br> • [COM SCI 144](https://catalog.registrar.ucla.edu/course/2023/COMSCI144): Web Applications <br> • EC ENGR 209AS: Trustworthy AI <br> • Head Learning Assistant for COM SCI 31 |
 <!--
 | Summer 2024 | • COM SCI 180 (Algorithms & Complexity) <br> • GEOG 181A (Intermediate Geographic Information Systems) <br> • GEOG 181B (Advanced Geographic Information Systems) <br> • GEOG 182A (Intro to Remote Sensing) | -->
 
