@@ -5,7 +5,7 @@ I'm a [Computer Science and Engineering]([url](https://catalog.registrar.ucla.ed
 | Quarter | Classes | 
 | ------- | ------- |
 | Fall 2023 | • COM SCI 32 (Data Structures & Algorithms) (A+) <br> • GEOG 7 (Intro to Geographic Information Systems) (A) <br> • STATS 10 (Intro to Statistical Reasoning) (A+) <br> • LING 1 (Intro to Study of Language) (A+) | 
-| Winter 2024 | • COM SCI 35L (Software Construction) <br> • COM SCI 143 (Data Management Systems) <br> • PHYSICS 4AL (Mechanics Lab) <br> • Learning Assistant for CS 31: Intro to Computer Science |
+| Winter 2024 | • COM SCI 35L (Software Construction) (A) <br> • COM SCI 143 (Data Management Systems) (A-) <br> • PHYSICS 4AL (Mechanics Lab) (A) <br> • Learning Assistant for CS 31: Intro to Computer Science (A) |
 | Spring 2024 | • COM SCI 33 (Computer Organization & Assembly) <br> • COM SCI 144 (Web Applications) <br> • COM SCI 209AS (Trustworthy AI) <br> • Learning Assistant for CS 31: Intro to Computer Science |
 
 
