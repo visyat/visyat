@@ -1,17 +1,8 @@
-# 👋 Hi, I’m Vishal! 
-Currently a student at UCLA (School of Engineering) studying Computer Science!
-
-<!--
-## Classes Taken
-| Quarter | Classes | 
-| ------- | ------- |
-| Fall 2023 | • [COM SCI 32](https://catalog.registrar.ucla.edu/course/2023/COMSCI32): Data Structures & Algorithms <br> • [GEOG 7](https://catalog.registrar.ucla.edu/course/2023/GEOG7): Intro to Geographic Information Systems <br> • [STATS 10](https://catalog.registrar.ucla.edu/course/2023/STATS10): Intro to Statistical Reasoning <br> • [LING 1](https://catalog.registrar.ucla.edu/course/2023/LING1): Intro to Study of Language | 
-| Winter 2024 | • [COM SCI 35L](https://catalog.registrar.ucla.edu/course/2023/COMSCI35L): Software Construction <br> • [COM SCI 143](https://catalog.registrar.ucla.edu/course/2023/COMSCI143): Data Management Systems <br> • [PHYSICS 4AL](https://catalog.registrar.ucla.edu/course/2023/PHYSICS4AL): Mechanics Lab for Scientists and Engineers <br> • Learning Assistant (LA) for [COM SCI 31](https://catalog.registrar.ucla.edu/course/2023/COMSCi31): Intro to Computer Science |
-| Spring 2024 | • [COM SCI 33](https://catalog.registrar.ucla.edu/course/2023/COMSCI33): Computer Organization & Assembly <br> • [COM SCI 144](https://catalog.registrar.ucla.edu/course/2023/COMSCI144): Web Applications <br> • [COM SCI 145](https://catalog.registrar.ucla.edu/course/2023/COMSCi145): Intro to Data Mining <br> • EC ENGR 209AS: Trustworthy AI <br> • Head Learning Assistant for COM SCI 31 |
-| Summer 2024 | • COM SCI 111 (Operating Systems) <br> • COM SCI 180 (Algorithms & Complexity) <br> • COM SCI M51A (Logic Design of Digital Systems) |
---> 
-
-
+### 👋 Hi, I’m Vishal! 
+- 🎓 I'm studying Computer Science at UCLA (School of Engineering)!
+- 💻 I'm interested in **Software Engineering, Databases/DBMS's, Machine Learning**
+- 📖 I have experience in **C++, Golang, Kotlin, Python, JavaScript**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishal-yathish/) or [Email](mailto:vishalyathish1@g.ucla.edu).
 
 <!-- To be Updated
 
